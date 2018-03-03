@@ -1,0 +1,10 @@
+{
+  "name": "sonic-atpls",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "danigb <danigb@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "osc-js": "^1.2.2"
+  }
+}
