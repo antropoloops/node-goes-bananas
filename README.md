@@ -9,9 +9,14 @@ https://github.com/danigb/node-goes-bananas.git
 * `nmap -sn 192.168.1.0/24`
 * `ssh pi@192.168.1.138` (raspberry)
 
-* cd `Antropoloops/node-goes-bananas`
+## Setup
+
+* Clone this repo: `git clone git@github.com:antropoloops/node-goes-bananas.git`
+* Install sonic-pi: `sudo apt-get install sonic-pi`
 
 ## Start SonicPi in server mode
+
+* Go to sonic-pi folder (in RaspberyPi /opt/sonic-pi/): `cd /opt/sonic-pi/`
 
 NOTE: this works on linux... still investigating how to install on Mac (see INSTALL_MAC.md at SonicPi source)
 
