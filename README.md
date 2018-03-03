@@ -9,6 +9,13 @@ https://github.com/danigb/node-goes-bananas.git
 * `nmap -sn 192.168.1.0/24`
 * `ssh pi@192.168.1.138` (raspberry)
 
+## Update node
+
+* `sudo su`
+* `curl -sL https://deb.nodesource.com/setup_9.x | bash -`
+* `apt-get install nodejs`
+* `exit`
+
 ## Setup
 
 * Clone this repo: `git clone git@github.com:antropoloops/node-goes-bananas.git`

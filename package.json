@@ -4,7 +4,11 @@
   "main": "index.js",
   "author": "danigb <danigb@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "sonic-pi": "ruby /opt/sonic-pi/app/server/bin/sonic-pi-server.rb"
+  },
   "dependencies": {
+    "input-event": "^1.2.2",
     "osc-js": "^1.2.2"
   }
 }

@@ -6,6 +6,10 @@ async-limiter@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/async-limiter/-/async-limiter-1.0.0.tgz#78faed8c3d074ab81f22b4e985d79e8738f720f8"
 
+input-event@^1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/input-event/-/input-event-1.2.2.tgz#0f74c95f08ac3f031c8a454d5097b0a78cfbe4e2"
+
 osc-js@^1.2.2:
   version "1.2.2"
   resolved "https://registry.yarnpkg.com/osc-js/-/osc-js-1.2.2.tgz#8b99937b66638ea93e473ceb04d3714010625b9c"
